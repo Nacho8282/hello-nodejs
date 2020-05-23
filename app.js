@@ -1,2 +1,2 @@
-//THis is the just to show the changes
+//THis is a sample feature addition
 console.log("Hello World!\n");
